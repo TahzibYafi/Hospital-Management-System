@@ -1,11 +1,3 @@
-/*
-Name = Tahzib Yafi
-NSID = tay642
-Student number = 11255718
-Course number = CMPT 270-01
-Tutorial section = T09
-*/
-
 /**
  * Release a patient from the ward.
  * Method is just a stub, needs to be implemented
