@@ -1,11 +1,3 @@
-/*
-Name = Tahzib Yafi
-NSID = tay642
-Student number = 11255718
-Course number = CMPT 270-01
-Tutorial section = T09
-*/
-
 import java.util.NoSuchElementException;
 
 
