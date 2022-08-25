@@ -1,11 +1,3 @@
-/*
-Name = Tahzib Yafi
-NSID = tay642
-Student number = 11255718
-Course number = CMPT 270-01
-Tutorial section = T09
-*/
-
 /**
  * A simple hospital system with only one ward.  Patients and doctors can be created,
  * and patients assigned to a doctor and/or placed in a bed of the ward.
